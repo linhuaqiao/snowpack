@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="juxssh"
+  id="myeclipse.1420706303014"
+  context-root="/juxssh"
+  j2ee-spec="6.0"
+  archive="juxssh.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
